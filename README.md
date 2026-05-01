@@ -6,3 +6,5 @@ Sportona is a platform where:
 
 - **Vendors** (sports facilities/studios) can create batches/classes and manage their operations
 - **Customers** can browse activities, subscribe to batches, and manage their schedule
+
+**Repository**: https://github.com/Sportona/.github
