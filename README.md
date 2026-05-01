@@ -1,10 +1,39 @@
-# Sportona Backend
+# Sportona Organization
 
-A multi-tenant sports facility management platform built with Go, Gin, PostgreSQL, and Redis.
+Welcome to the Sportona organization repository. This is the central hub for shared GitHub configuration, workflows, and community standards across all Sportona projects.
 
-Sportona is a platform where:
+## About Sportona
 
-- **Vendors** (sports facilities/studios) can create batches/classes and manage their operations
-- **Customers** can browse activities, subscribe to batches, and manage their schedule
+Sportona is a **multi-tenant sports facility management platform** that connects vendors and customers in the sports and wellness industry.
 
-**Repository**: https://github.com/Sportona/.github
+### Platform Overview
+
+**Sportona** is built with:
+- **Backend**: Go, Gin framework
+- **Database**: PostgreSQL, Redis
+- **Architecture**: Multi-tenant, scalable cloud-native design
+
+### Key Features
+
+- **Vendors** (sports facilities/studios) can:
+  - Create and manage batches/classes
+  - Organize sports activities and events
+  - Manage facility operations and schedules
+  - Track bookings and memberships
+
+- **Customers** can:
+  - Browse available activities and classes
+  - Subscribe to batches and manage their memberships
+  - Organize their fitness schedule
+  - Discover nearby sports facilities
+
+## This Repository
+
+This `.github` repository serves as the **organizational configuration hub** for Sportona. It contains:
+
+- Shared GitHub workflows and CI/CD configurations
+- Issue and pull request templates
+- Community health files and guidelines
+- Organization-wide standards and best practices
+
+For project-specific repositories, visit the [Sportona GitHub Organization](https://github.com/Sportona).
